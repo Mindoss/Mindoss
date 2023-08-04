@@ -136,6 +136,6 @@ var toc_config = {
  delayLoading: 0
 };
 </script>
-<script src="https://mindoss.github.io/mindoss/sitemap.js" type="text/javascript"></script>
+<script src="https://github.com/Mindoss/Mindoss/blame/main/sitemap.js" type="text/javascript"></script>
 </div>
 </div>
